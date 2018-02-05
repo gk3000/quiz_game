@@ -140,7 +140,7 @@ var GameBoard = function (_React$Component4) {
         answer: "Sith"
       }, { // 2
         question: 'Who is Luke Skywalker’s dad?',
-        options: ['Boba Fett', 'Jango Fett', 'Anakin Skywalker', 'Emperor'],
+        options: ['Boba Fett', 'Jango Fett', 'Anakin Skywalker', 'Emperor',5],
         answer: 'Anakin Skywalker'
       }, { // 3
         question: 'Who kills Jabba The Hutt?',
